@@ -33,6 +33,7 @@ Make sure you have the following installed:
 pip install python-nmap termcolor rich
 
 📸 Screenshots
+![image alt]<img width="1366" height="767" alt="image" src="https://github.com/user-attachments/assets/70612d10-52ac-4510-915b-456e948f3141" />
 
 
 📂 Project Structure
