@@ -34,4 +34,7 @@ Make sure you have the following installed:
 pip install python-nmap termcolor rich
 
 📸 Screenshots
+![image alt](https://github.com/codedbyBisma/bytevulnscanner/blob/187cf27f96f78f3081442ba3a6a17fa2d5f68d69/ss%202.png)
+
+
 
