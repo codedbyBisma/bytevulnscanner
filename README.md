@@ -24,6 +24,8 @@ This tool is ideal for:
 
 ---
 📸 Screenshots
+![image alt](https://github.com/user-attachments/assets/08ab4aa0-d4b9-451e-a33b-16970405254e)
+
 
 ## 🛠️ Requirements
 Make sure you have the following installed:
