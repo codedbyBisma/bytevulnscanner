@@ -35,7 +35,7 @@ pip install python-nmap termcolor rich
 
 📸 Screenshots
 
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/4336334f-be7d-4958-952f-78e7bf4de676)
 ![image alt]()
 ![image alt]()
 
