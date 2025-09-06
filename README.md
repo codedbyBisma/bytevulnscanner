@@ -33,7 +33,14 @@ Make sure you have the following installed:
 pip install python-nmap termcolor rich
 
 📸 Screenshots
-![image alt](https://github.com/user-attachments/assets/70612d10-52ac-4510-915b-456e948f3141)
+### Main Menu
+![Main Menu](ss2.png)
+
+### Port Scan
+![Port Scan](ss3.png)
+
+### DNS Lookup
+![DNS Lookup](ss4.png)
 
 
 📂 Project Structure
