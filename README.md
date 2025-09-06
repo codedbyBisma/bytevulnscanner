@@ -23,7 +23,6 @@ This tool is ideal for:
 - ✅ Clean menu-driven interface  
 
 ---
-
 ## 🛠️ Requirements
 Make sure you have the following installed:
 - Python 3.x  
@@ -35,10 +34,8 @@ pip install python-nmap termcolor rich
 
 📸 Screenshots
 
-![image alt](https://github.com/user-attachments/assets/4336334f-be7d-4958-952f-78e7bf4de676)
-![image alt]()
-![image alt]()
 
+📂 Project Structure
 📦 vuln_scanner/
  ┣ 📜 vuln_scanner.py   # Main script
  ┣ 📜 README.md         # Project Documentation
@@ -56,6 +53,10 @@ Enhance UI with animations
 
 This tool is made only for educational & ethical purposes.
 The author is not responsible for any misuse or damage caused.
+
+👩‍💻 Developed by: Bisma
+
+
 
 
 
