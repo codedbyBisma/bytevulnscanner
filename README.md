@@ -34,7 +34,29 @@ Make sure you have the following installed:
 pip install python-nmap termcolor rich
 
 📸 Screenshots
-![image alt](https://github.com/codedbyBisma/bytevulnscanner/blob/0594c6398e52dfbad3efba62ee8085ff26d63c17/ss%202.png)
+
+![image alt]()
+![image alt]()
+![image alt]()
+
+📦 vuln_scanner/
+ ┣ 📜 vuln_scanner.py   # Main script
+ ┣ 📜 README.md         # Project Documentation
+ ┗ 📜 requirements.txt  # Dependencies
+
+🚀 Future Improvements
+
+Add more scanning modules (OS detection, service version detection)
+
+Export scan results to a file (CSV/JSON)
+
+Enhance UI with animations
+
+⚠️ Disclaimer
+
+This tool is made only for educational & ethical purposes.
+The author is not responsible for any misuse or damage caused.
+
 
 
 
