@@ -23,10 +23,10 @@ This tool is ideal for:
 - ✅ Clean menu-driven interface  
 
 ---
-📸 Screenshots
+## 📸 Screenshots
 ![image alt](https://github.com/user-attachments/assets/08ab4aa0-d4b9-451e-a33b-16970405254e)
 ![image alt](https://github.com/user-attachments/assets/0306ef4d-0b0a-4fbd-8de1-3620ac2fb2a3)
-![image alt](https://github.com/user-attachments/assets/0306ef4d-0b0a-4fbd-8de1-3620ac2fb2a3)
+![image alt](https://github.com/user-attachments/assets/23b4b1b3-88b5-47e2-8d6a-ad4c1030b523)
 
 ## 🛠️ Requirements
 Make sure you have the following installed:
