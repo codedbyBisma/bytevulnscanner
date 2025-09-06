@@ -23,6 +23,8 @@ This tool is ideal for:
 - ✅ Clean menu-driven interface  
 
 ---
+📸 Screenshots
+
 ## 🛠️ Requirements
 Make sure you have the following installed:
 - Python 3.x  
@@ -31,17 +33,6 @@ Make sure you have the following installed:
 
 ```bash
 pip install python-nmap termcolor rich
-
-📸 Screenshots
-### Main Menu
-![Main Menu](ss2.png)
-
-### Port Scan
-![Port Scan](ss3.png)
-
-### DNS Lookup
-![DNS Lookup](ss4.png)
-
 
 📂 Project Structure
 📦 vuln_scanner/
