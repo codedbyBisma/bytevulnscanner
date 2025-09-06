@@ -35,7 +35,7 @@ pip install python-nmap termcolor rich
 
 📸 Screenshots
 
-![image alt](https://github.com/codedbyBisma/bytevulnscanner/blob/9f92bbd20b7676af35929611c3b59aa0d6e32af0/ss4.png)
+![image alt](https://github.com/codedbyBisma/bytevulnscanner/blob/main/ss%202.png?raw=true)
 
 
 
