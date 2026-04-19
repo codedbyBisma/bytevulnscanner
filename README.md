@@ -40,7 +40,9 @@ pip install python-nmap termcolor rich
  Project Structure
  vuln_scanner/
  ┣  vuln_scanner.py   # Main script
+ 
  ┣  README.md         # Project Documentation
+ 
  ┗  requirements.txt  # Dependencies
 
 ## Future Improvements
