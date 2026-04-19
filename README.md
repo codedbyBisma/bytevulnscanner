@@ -43,7 +43,7 @@ pip install python-nmap termcolor rich
  ┣  README.md         # Project Documentation
  ┗  requirements.txt  # Dependencies
 
-Future Improvements
+## Future Improvements
 
 Add more scanning modules (OS detection, service version detection)
 
@@ -51,12 +51,12 @@ Export scan results to a file (CSV/JSON)
 
 Enhance UI with animations
 
-Disclaimer
+## Disclaimer
 
 This tool is made only for educational & ethical purposes.
 The author is not responsible for any misuse or damage caused.
 
-Developed by: Bisma
+## Developed by: Bisma
 
 
 
